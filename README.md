@@ -20,6 +20,8 @@ any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and the issue Pull Requests for review.
+
 ## Copyright
 
 2020 Git.Training
